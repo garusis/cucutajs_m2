@@ -1,0 +1,18 @@
+#ccjs_main {
+    padding: 80px 0;
+    color: #cdbfe3;
+    text-align: center;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, .1);
+    background-color: #DBDA41;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#D4D34B), to(#DBDA41));
+    background-image: -webkit-linear-gradient(top, #D4D34B 0, #DBDA41 100%);
+    background-image: -o-linear-gradient(top, #D4D34B 0, #DBDA41 100%);
+    background-image: linear-gradient(to bottom, #D4D34B 0, #DBDA41 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#D4D34B', endColorstr='#DBDA41', GradientType=0);
+    background-repeat: repeat-x;
+}
+
+#js_logo {
+    width: 148px;
+    height: 182px;
+}
